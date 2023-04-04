@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash",
+      "rating": 8.3,
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "rating": 6.8,
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "name": "The Matrix 3",
+      "rating": "8.1",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "id": 7
+    },
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 8
+    },
+    {
+      "name": "Fast Furious 5",
+      "rating": "7.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/oG4bxAtNP8ikDYkH5PoHdCE0muN.jpg",
+      "overview": "Ex-cop Brian O'Conner and Dom Toretto, whom he'd gotten away with in the past, team up once again to achieve total freedom. But freedom won't be easy, and they are followed by a troubled businessman who wants them dead, and a Federal agent who aims to catch his prey. While the duo is stuck in Rio, they assemble a unique team for the competition.",
+      "id": 14
+    }
+  ]
+}
